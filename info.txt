@@ -1,2 +1,2 @@
-Project: Team Project
+Project: Smart Team Project
 Description: A simple project
