@@ -1,2 +1,2 @@
 Project: Smart Team Project
-Description: A simple project
+Description: A collaborative coding project
