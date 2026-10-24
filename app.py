@@ -1,5 +1,5 @@
 def greet(name):
-    return f"درود {name}! خوش آمدی."
+    return f"Welcome {name}!"
 
 def good_bye(name):
     return f"به امید دیدار {name}!"
